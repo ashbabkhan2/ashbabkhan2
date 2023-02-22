@@ -2,7 +2,9 @@
 <div id="header">
   <img src="https://media.giphy.com/media/Wj116ZszUZEwRIoz0j/giphy.gif" width="100" /> 
 </div>
+<br />
 
+#### Blogs and Projects <img src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" width=30 style="margin-bottom: -5px" />  
 <div id="badges">
   <a href="https://medium.com/@ashbabkhan12">
     <img src="https://img.shields.io/badge/Medium-grey?logo=medium&logoColor=black&style=for-the-badge" />  
